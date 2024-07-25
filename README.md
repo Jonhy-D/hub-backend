@@ -46,3 +46,9 @@ Run `node index.js --watch` for a server Navigate to localhost and the PORT that
 This is the entity relationship diagram of the hub entertainment mega project database according to my point of view.
 
 ![Entity-Relationship Diagram Image](/public/Entity-Relationship.webp)
+
+## Process
+
+- First I created the tables that were the main ones that were users, movies and series. 
+- After having created those tables to be able to store those items, then I had to see the functions of my application to be able to make the other tables that are the user's favorites and Since in MySQL there are relationship tables.
+- I had to think about how the user relates to those tables and thus create the other tables of favorite movies and favorite series.

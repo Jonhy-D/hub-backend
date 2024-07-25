@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the backend repository of Hub Entertainment Mega [Hub Entertainment Mega](https://github.com/Jonhy-D/hub-entertainment-mega), its main function is the storage of the web application.
+This is the backend repository of [Hub Entertainment Mega](https://github.com/Jonhy-D/hub-entertainment-mega), its main function is the storage of the web application.
 
 ## Technical requirements
 

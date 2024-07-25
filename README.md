@@ -33,3 +33,16 @@ BC_PORT = "Put here Backend server PORT"
 ### Final Step
 
 Run `node index.js --watch` for a server Navigate to localhost and the PORT that you will put in the BC_PORT.
+
+# Sprint 4
+
+### Goals
+
+- Implement T-SQL database in Entertainment HUB project.
+- Create Entity-Relationship Diagram.
+
+## Entity-Relationship Diagram
+
+This is the entity relationship diagram of the hub entertainment mega project database according to my point of view.
+
+![Entity-Relationship Diagram Image](/public/Entity-Relationship.webp)

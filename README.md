@@ -1,0 +1,35 @@
+# Hub Backend
+
+## Description
+
+This is the backend repository of Hub Entertainment Mega [Hub Entertainment Mega](https://github.com/Jonhy-D/hub-entertainment-mega), its main function is the storage of the web application.
+
+## Technical requirements
+
+This project was generated Node JS, MSSQL, Express, Dotenv and Javascript.
+
+## How to install the project
+
+### First Step: 
+
+You need to have node.js, run the following command: `node --version` and npm installed, confirm that the version number displayed meets the requirements.
+
+### Second Step: 
+
+Remember that after downloading or cloning the project you must stop at your project in the terminal and run: `npm install`
+
+### Third Step:
+
+You need to create a file .env with the next requirements:
+```
+DB_USER = "Put here database user"
+DB_PASSWORD = "Put here database password".
+DB_SERVER = "Put here database server name"
+DB_DATABASE = "Put here database name"
+DB_PORT = "Put here data base PORT"
+BC_PORT = "Put here Backend server PORT"
+```
+
+### Final Step
+
+Run `node index.js --watch` for a server Navigate to localhost and the PORT that you will put in the BC_PORT.

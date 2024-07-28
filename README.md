@@ -64,27 +64,27 @@ This is the entity relationship diagram of the hub entertainment mega project da
 - Create a cookie so that the login is saved for 3 days so that the session is not lost.
 
 #### Diferents endpoints
-This endpoint is for creating users.
+This endpoint is for creating users:
 
 `POST /users` 
 
-This endpoint is to verify that the user exists.
+This endpoint is to verify that the user exists:
 
 `POST /auth `
 
-This endpoint is to get all the stored movies
+This endpoint is to get all the stored movies:
 
 `GET /movies`
 
-This endpoint is to get all the stored series
+This endpoint is to get all the stored series:
 
 `GET /series`
 
-This endpoint is to add to the user's favorite movies section
+This endpoint is to add to the user's favorite movies section:
 
 `POST /addFavMov`
 
-This endpoint is to add to the user's favorite series section
+This endpoint is to add to the user's favorite series section:
 
 `POST /addFavSer`
 

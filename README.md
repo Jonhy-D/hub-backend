@@ -16,7 +16,9 @@ You need to have node.js, run the following command: `node --version` and npm in
 
 ### Second Step: 
 
-Clone repository,remember that after downloading or cloning the project you must stop at your project in the terminal and run: `npm install`
+Clone repository with this command:
+` git clone "URL repository"`
+Remember that after downloading or cloning the project you must stop at your project in the terminal and run: `npm install` to download your project's dependencies.
 
 ### Third Step:
 
@@ -33,6 +35,10 @@ BC_PORT = "Put here Backend server PORT"
 ### Final Step
 
 Run `node index.js --watch` for a server Navigate to localhost and the PORT that you will put in the BC_PORT.
+
+### Remember need a database
+
+The database is in the file called **HubEnterntainment.dacpac**
 
 # Sprint 4
 
@@ -85,6 +91,6 @@ This endpoint is to add to the user's favorite series section
 
 ## Table Sprint Review
 
-| ** What was done well? ** | ** What can I do differently? ** | ** What didn't go well? ** |
+| **What was done well?** | **What can I do differently?** | **What didn't go well?** |
 ------------------|----------------------------|-----------------------
 | In this sprint I think there were few things that went well because I had to do a lot of research. But the main thing that went well was the creation of the database with T-SQL and the creation of the entity relationship diagram. | In this sprint I think what I needed most was to be able to ask my questions in private sessions because I feel that there is not enough time to be able to help with errors and communication. | The implementation of connecting my database with my application was quite tiring because many errors came up that I had never seen before, but the good thing was that in the session they gave many tips to get out of the hole. |

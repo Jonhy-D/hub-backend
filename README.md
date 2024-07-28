@@ -52,3 +52,7 @@ This is the entity relationship diagram of the hub entertainment mega project da
 - First I created the tables that were the main ones that were users, movies and series. 
 - After having created those tables to be able to store those items, then I had to see the functions of my application to be able to make the other tables that are the user's favorites and Since in MySQL there are relationship tables.
 - I had to think about how the user relates to those tables and thus create the other tables of favorite movies and favorite series.
+
+## Issues
+
+- My first problem was connect to the database with my backend application, because When I tried to connect the server send to me an alert with the code error but I don't know how to fix this error so I 
